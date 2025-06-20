@@ -1,0 +1,25 @@
+# Core libraries
+streamlit
+pandas
+numpy
+datetime
+python-dotenv
+
+# Google Generative AI
+google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+
+# Plotting
+plotly
+
+# Machine Learning
+scikit-learn
+
+# Hugging Face Embeddings (via Langchain)
+transformers
+sentence-transformers
+
+# FAISS (Vector Search)
+faiss-cpu
